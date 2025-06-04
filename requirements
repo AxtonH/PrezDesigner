@@ -1,0 +1,8 @@
+numpy==1.26.4
+streamlit
+python-pptx
+python-dotenv
+openai
+PyPDF2
+requests
+pandas
